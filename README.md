@@ -1,8 +1,8 @@
 ![Web Developer](https://scontent.fdac5-1.fna.fbcdn.net/v/t1.6435-9/99432322_1421597164691050_5276708695726620672_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=e3f864&_nc_ohc=BIfD_m51LEkAX8V4xQI&_nc_ht=scontent.fdac5-1.fna&oh=b54ffd1949db400eb8dd17de2f7736a5&oe=6171871C)
 
-### Hi there 👋, I'am Rashedul Islam
-#### Web Developer
-![Web Developer](https://scontent.fdac5-1.fna.fbcdn.net/v/t1.6435-9/99432322_1421597164691050_5276708695726620672_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=e3f864&_nc_ohc=BIfD_m51LEkAX8V4xQI&_nc_ht=scontent.fdac5-1.fna&oh=b54ffd1949db400eb8dd17de2f7736a5&oe=6171871C)
+# Hi there 👋, I'am Rashedul Islam
+## Web Developer
+
 
 I'am a Front End Web developer who is passionate about making error-free website with 100% client satisfaction.
 
